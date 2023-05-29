@@ -1,2 +1,15 @@
-el keni es 
-genial
+6. respuesta 
+___<Git commit>___realiza cambios en el archivo "index.html" y los confirma en 
+la rama principal.
+-
+Descarga los cambios de ____<Git pull >___ en tu repositorio local utilizando el 
+comando adecuado.
+.
+.
+7.
+____<Git reset>  hard HEAD-2  ______ detecta un error en el archivo "styles.css" y desea 
+deshacer los últimos dos commits:
+-
+Utiliza el comando adecuado para deshacer los dos commits más 
+recientes sin perder los cambios en el área de trabajo: 
+Git reset                 HEAD-2
